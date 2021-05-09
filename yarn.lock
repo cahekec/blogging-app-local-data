@@ -2311,9 +2311,9 @@ latest-version@^3.0.0:
     package-json "^4.0.0"
 
 lodash@^4.17.4:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.0.0:
   version "1.4.0"
@@ -2782,6 +2782,11 @@ preserve@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/preserve/-/preserve-0.2.0.tgz#815ed1f6ebc65926f865b310c0713bcb3315ce4b"
   integrity sha1-gV7R9uvGWSb4ZbMQwHE7yzMVzks=
+
+prisma@^1.32.2:
+  version "1.34.12"
+  resolved "https://registry.yarnpkg.com/prisma/-/prisma-1.34.12.tgz#6212571134f4ead659294b778d85a3f24f9d2669"
+  integrity sha512-Es1cBDqP97eBkbt6yGLg9AInXHIlo2IR7bPYSNQxp9joFBHG6Wuzc0nt6Snb73gcO0bTG5PHJaSijDaZv7/Jpw==
 
 private@^0.1.6, private@^0.1.8:
   version "0.1.8"
